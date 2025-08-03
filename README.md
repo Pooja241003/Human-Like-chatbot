@@ -1,4 +1,4 @@
-# STAN Chatbot
+# LIORA AI-Chatbot
 
 A human-like conversational chatbot that demonstrates empathy, contextual awareness, memory, and long-term conversation handling. Built for the STAN Internship Challenge.
 
@@ -69,13 +69,6 @@ Here is the prior conversation:
 User: What's your name?
 Liro:
 ```
-## Testing
-Test Case	         How to Verify
-Memory Persistence  - Chat with info, reload, and check recall
-Emotion-Aware Tone - Try happy/sad prompts, check tone adaptation
-Sidebar Navigation- Open old chat titles, verify session loads
-New Chat Flow - Click "New Chat", see fresh context
-
 ##  Contact
 
 Developed by Pooja H Y.
