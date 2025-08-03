@@ -63,11 +63,11 @@ A human-like conversational chatbot that demonstrates empathy, contextual awaren
 ##  Example Prompt Format
 
 ```
-You are Liro, a human-like, emotionally intelligent AI chatbot...
+You are Liora, a human-like, emotionally intelligent AI chatbot...
 Here is the prior conversation:
 <User's 5 recent messages>
 User: What's your name?
-Liro:
+Liora:
 ```
 ##  Contact
 
